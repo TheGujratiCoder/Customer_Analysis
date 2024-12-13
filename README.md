@@ -1,8 +1,9 @@
-## Customer Analysis 📊
+# Customer Analysis 📊
 Overview
 This project focuses on analyzing customer data to derive insights that help businesses understand customer behavior, preferences, and trends. It uses data science techniques and visualization tools to extract actionable information from raw datasets.
 
-Features:
+## Features:
+
 -> Exploratory Data Analysis (EDA) for understanding customer demographics and purchasing patterns.
 
 -> Data preprocessing and cleaning for handling missing or inconsistent data.
@@ -11,7 +12,7 @@ Features:
 
 -> Implementation of machine learning models (if applicable) for predicting customer behavior.
 
-Technologies Used
+## Technologies Used
 
 -> Programming Language: Python
 
@@ -19,7 +20,7 @@ Technologies Used
 
 -> Tools: Jupyter Notebook
 
-Setup Instructions
+## Setup Instructions
 
 1) Clone this repository:
 
@@ -35,6 +36,6 @@ pip install -r requirements.txt
 
 jupyter notebook Customer_Analysis.ipynb
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
