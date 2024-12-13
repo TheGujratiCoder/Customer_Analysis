@@ -2,7 +2,7 @@
 Overview
 This project focuses on analyzing customer data to derive insights that help businesses understand customer behavior, preferences, and trends. It uses data science techniques and visualization tools to extract actionable information from raw datasets.
 
-## Features:
+## Features
 
 -> Exploratory Data Analysis (EDA) for understanding customer demographics and purchasing patterns.
 
